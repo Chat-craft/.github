@@ -27,9 +27,10 @@ Empower your enterprise with a customizable chatbot service that leverages your 
 Chat-Craft employs a modern microservices architecture, orchestrated by a central service that manages document processing, vector storage, and AI-powered responses.
 
 **Core Services:**
-- Entities Service (Orchestrator)
-- File AI Service
-- Cron Job Service
+- [Entities Service (Orchestrator)](https://github.com/Chat-craft/entities)
+- [File AI Service](https://github.com/Chat-craft/file-ai)
+- [Cron Job Service](https://github.com/Chat-craft/Cron-job)
+- [UI Frontend](https://github.com/Chat-craft/ui)
 
 **Technology Stack:**
 - Next.js, Tailwind CSS, Interactive UI Components
