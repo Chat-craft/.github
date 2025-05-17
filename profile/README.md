@@ -37,7 +37,7 @@ Chat-Craft employs a modern microservices architecture, orchestrated by a centra
 - MongoDB with Atlas Vector Search
 - Ollama (local LLMs), Nomic Embed Text (embeddings), Llama 2 (response generation)
 
-  <img src = "https://github.com/Chat-craft/.github/system-architecture-diagram.svg" />
+  <img src = "https://github.com/Chat-craft/.github/blob/main/system-architecture-diagram.svg" />
 
 ---
 
@@ -59,7 +59,7 @@ Chat-Craft employs a modern microservices architecture, orchestrated by a centra
 5. **Llama 2** generates a context-aware, structured response
 6. Response is displayed in the chat interface
 
- <img src = "https://github.com/Chat-craft/.github/workflow.png" />
+ <img src = "https://github.com/Chat-craft/.github/blob/main/workflow.png" />
 
  ---
 
@@ -73,7 +73,7 @@ Chat-Craft employs a modern microservices architecture, orchestrated by a centra
 
 
 ### Dashboard 
-<img src = "https://github.com/Chat-craft/.github/file-upload-view-dashboard.png"/>
+<img src = "https://github.com/Chat-craft/.github/blob/main/file-upload-view-dashboard.png"/>
 
 ---
 
