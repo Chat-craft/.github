@@ -94,7 +94,7 @@ Chat-Craft employs a modern microservices architecture, orchestrated by a centra
 | [Kunal](https://www.github.com/kunal768)   | Backend & System Architecture: Designed microservices, backend, database, vector search, AI integration|
 | [Nikhil](https://www.github.com/Nikhil1169)    | Frontend Development: Signup, dashboard, chatbot UI, configuration, exportable widget                  |
 | [Muqtadir](https://www.github.com/Crimsonbeetle)  | Data Integration & Analytics: Google Docs/Sheets integration, metrics logging, auto-FAQ creation       |
-| [Kenil]()     | AI & Vector Search Engineer: Llama 2 integration, structured prompting, chunking, vector indexing      |
+| [Kenil](https://github.com/kenilhv)     | AI & Vector Search Engineer: Llama 2 integration, structured prompting, chunking, vector indexing      |
 | [Deven](https://www.github.com/Deven-0012)     | Frontend & Integration Engineer: Chatbot UI, API routes, iframe export, static regeneration            |
 
 ---
